@@ -60,7 +60,7 @@
 - **Bookworm** → Philosophy meets data viz 📚  
 
 ### **🔗 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-lobato-menendez-19ba1a236/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 **Why me?** I bridge **analytical rigor** (Economics) + **abstract thinking** (Philosophy) to solve problems differently.
